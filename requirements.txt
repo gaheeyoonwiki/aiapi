@@ -2,7 +2,6 @@ feedparser
 openai
 SpeechRecognition 
 pyttsx3 
-PyAudio
 deepl
 yt-dlp
 youtube-transcript-api
