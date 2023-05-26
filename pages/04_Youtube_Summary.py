@@ -84,7 +84,7 @@ clicked_for_clear = st.sidebar.button('URL 입력 내용 지우기',  on_click=c
 radio_selected_lang = st.sidebar.radio('유튜브 동영상 언어 선택', ['한국어', '영어'], index=1, horizontal=True)
     
 if radio_selected_lang == '영어': 
-    radio_selected_tran = st.sidebar.radio('번역 방법 선택', ['OpenAI'], index=0, horizontal=True)
+    radio_selected_tran = st.sidebar.radio('번역 방법 선택', ['OpenAI', 'DeepL'], index=1, horizontal=True)
 
 clicked = st.sidebar.button('동영상 내용 요약')
 
