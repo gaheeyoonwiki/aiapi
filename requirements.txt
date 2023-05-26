@@ -8,3 +8,4 @@ streamlit-chat
 PyPDF2
 tiktoken
 beautifulsoup4
+deepl
