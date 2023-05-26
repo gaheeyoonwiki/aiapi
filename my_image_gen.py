@@ -3,6 +3,7 @@
 import openai
 import os
 import textwrap
+import streamlit as st
 
 def translate_text_for_image(text):    
     # API 키 설정
