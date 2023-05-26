@@ -1,8 +1,6 @@
 feedparser
-openai
-SpeechRecognition 
+openai 
 pyttsx3 
-deepl
 yt-dlp
 youtube-transcript-api
 streamlit
